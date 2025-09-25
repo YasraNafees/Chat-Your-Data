@@ -1,0 +1,11 @@
+fastapi
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+huggingface_hub
+python-dotenv
+faiss-cpu
+PyMuPDF
+pydantic
+uvicorn
